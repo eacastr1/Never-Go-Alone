@@ -19,5 +19,6 @@ MonoBehaviour:
   - {fileID: 11400000, guid: caf147468f9c4c24aa715eef86816ac0, type: 2}
   - {fileID: 11400000, guid: 2983febada74425478b34875800015f1, type: 2}
   - {fileID: 11400000, guid: 25f8d3b7238560645aca0b002c614643, type: 2}
+  - {fileID: 11400000, guid: 23af104627e0a794ab9e21051f546508, type: 2}
   Health: 125
   Speed: 2.25

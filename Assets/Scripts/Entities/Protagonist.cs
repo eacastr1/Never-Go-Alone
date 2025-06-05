@@ -109,31 +109,19 @@ public class Protagonist : Entity
 
         // Airbone HFSM
         m_Airborne = new StateMachine();
-        // m_Airborne.AddState("Idle", new State(isGhostState: true));
         m_Airborne.AddState("Airborne", new AirborneState(this));
-        // m_Airborne.AddTwoWayTransition("Idle", "Airborne", t => Rigidbody.linearVelocityY < 0 || Rigidbody.linearVelocityY > 0);
+        
+
+        m_Airborne.AddState("Floating", new FloatingState(this));
+        m_Airborne.AddTwoWayTransition("Airborne", "Floating", t => m_Floating);
+
         m_Airborne.SetStartState("Airborne");
         m_Airborne.Init();
 
-        /*
-        m_Locomotion.AddState("Locomotion", new ParallelStates(
-            m_Grounded,
-            m_Airborne
-        ));
-        */
 
         m_Locomotion.AddState("Grounded", m_Grounded);
         m_Locomotion.AddState("Airborne", m_Airborne);
         m_Locomotion.AddTwoWayTransition("Grounded", "Airborne", t => !OnGround);
-
-        /*
-        m_Locomotion.AddState("Rooted", new State(isGhostState: true));
-
-        m_Locomotion.AddTransition("Grounded", "Rooted", t => m_Rooted && OnGround);
-        m_Locomotion.AddTransition("Airborne", "Rooted", t => m_Rooted && !OnGround);
-
-        m_Locomotion.AddTransition("Rooted", "Grounded", t => !m_Rooted && OnGround);
-        */
 
         m_Locomotion.SetStartState("Airborne");
         m_Locomotion.Init();

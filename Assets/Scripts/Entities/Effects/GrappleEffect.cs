@@ -25,14 +25,26 @@ public class GrappleEffect : IEffect
     private IEnumerator Grapple(Entity entity)
     {
         Rigidbody2D rb = entity.Rigidbody;
+
         if (rb == null)
             yield break;
+
+        float originalDrag = entity.Rigidbody.linearDamping;
+        entity.Rigidbody.linearDamping = 5f; // or whatever feels good
 
         yield return new WaitForSeconds(m_Time);
 
         Transform ownerTransform = m_Owner.transform;
         Vector2 targetDir = (ownerTransform.position - entity.transform.position).normalized;
 
+        entity.Rigidbody.linearVelocity = Vector2.zero;
+        entity.Rigidbody.AddForce(new Vector2(Mathf.Sign(targetDir.x), 0) * m_Speed, ForceMode2D.Impulse);
+
+        yield return new WaitForSeconds(0.15f);
+
+        entity.Rigidbody.linearDamping = originalDrag;
+
+        /*
         // Set a fixed offset (e.g. 0.5 units away from the owner)
         float offsetDistance = 0.5f;
         Vector2 targetPosition = (Vector2)ownerTransform.position - targetDir * offsetDistance;
@@ -50,5 +62,6 @@ public class GrappleEffect : IEffect
         }
 
         rb.MovePosition(targetPosition); // Optional final snap
+        */
     }
 }

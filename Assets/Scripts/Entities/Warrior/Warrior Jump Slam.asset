@@ -10,13 +10,13 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3d3790db9f475bc4db5f519e40be7784, type: 3}
-  m_Name: Warrior Slash Up
+  m_Name: Warrior Jump Slam
   m_EditorClassIdentifier: 
   prefab: {fileID: 0}
-  abilityName: 11
-  cooldown: 2
+  abilityName: 12
+  cooldown: 3
   recovery: 0
-  damage: 20
-  speed: 11
+  damage: 25
+  speed: 25
   duration: 0
   distance: 0

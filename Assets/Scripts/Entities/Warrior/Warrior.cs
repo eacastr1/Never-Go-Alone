@@ -5,6 +5,7 @@ public class Warrior : Protagonist
 {
     public GameObject SlashDownHitbox;
     public GameObject SlashUpHitbox;
+    public GameObject SlamHitbox;
     public GameObject ChainSpawn;
 
     protected override void SetupActionFSM()
@@ -24,6 +25,10 @@ public class Warrior : Protagonist
         ability = AbilityNames.WARRIOR_CHAIN.ToString();
         m_GroundedAction.AddState(ability, new WarriorChainState(this));
         m_GroundedAction.AddTwoWayTransition("Idle", ability, t => Player.Instance.PlayerControls.AbilityFour.IsPressed());
+
+        ability = AbilityNames.WARRIOR_JUMP_SLAM.ToString();
+        m_AirborneAction.AddState(ability, new AbilityState(this, AbilityNames.WARRIOR_JUMP_SLAM));
+        m_AirborneAction.AddTwoWayTransition("Idle", ability, t => Player.Instance.PlayerControls.AbilityOne.IsPressed());
 
         m_GroundedAction.SetStartState("Idle");
         m_GroundedAction.Init();

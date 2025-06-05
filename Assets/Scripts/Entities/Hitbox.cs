@@ -60,15 +60,15 @@ public class Hitbox : MonoBehaviour
         }
     }
 
-    public void Flip()
+    public void Flip(float direction)
     {
-        if (m_Owner.Direction > 0)
+        if (direction > 0)
         {
             Vector3 scale = transform.localScale;
             scale.x = 1; // Flip horizontally
             transform.localScale = scale;
         }
-        else if (m_Owner.Direction < 0)
+        else if (direction < 0)
         {
             Vector3 scale = transform.localScale;
             scale.x = -1; // Flip horizontally

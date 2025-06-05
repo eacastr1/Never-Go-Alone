@@ -31,8 +31,19 @@ public class KnockupEffect : IEffect
         if (rb == null)
             yield break;
 
+        float originalDrag = entity.Rigidbody.linearDamping;
+        entity.Rigidbody.linearDamping = 5f; // or whatever feels good
+
+        entity.Rigidbody.linearVelocity = Vector2.zero;
+        entity.Rigidbody.AddForce(new Vector2(0, 1 * m_Speed), ForceMode2D.Impulse);
+
+        yield return new WaitForSeconds(0.15f);
+
+        entity.Rigidbody.linearDamping = originalDrag;
+
         // entity.m_Rooted = true; // Optional: freeze movement/input
 
+        /*
         Vector2 startPosition = rb.position;
         Vector2 targetPosition = startPosition + Vector2.up * m_Height;
 
@@ -49,5 +60,6 @@ public class KnockupEffect : IEffect
 
         rb.MovePosition(targetPosition); // Final snap
         // entity.m_Rooted = false;
+        */
     }
 }

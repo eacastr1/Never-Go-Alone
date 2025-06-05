@@ -25,7 +25,7 @@ public class WarriorSlashUpAbility : ProtagAbility
     private IEnumerator SlashUp()
     {
         m_Protagonist.Animator.SetTrigger("Ability Two");
-        m_Hitbox.Initialize(new DamageEffect(data.damage), new KnockupEffect());
+        m_Hitbox.Initialize(new DamageEffect(data.damage), new KnockupEffect(speed: data.speed));
         m_Hitbox.SetTag("Enemy");
         yield return null;
     }

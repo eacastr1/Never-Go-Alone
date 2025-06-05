@@ -12,4 +12,6 @@ public class ProtagState : State
         m_Protagonist = protagonist;
         m_PlayerController = Player.Instance.PlayerController;
     }
+
+    
 }

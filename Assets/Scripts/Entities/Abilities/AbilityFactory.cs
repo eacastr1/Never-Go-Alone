@@ -50,6 +50,8 @@ public static class AbilityFactory
                 return new WarriorSlashUpAbility((Protagonist)owner, data);
             case AbilityNames.WARRIOR_CHAIN:
                 return new WarriorChainAbility((Protagonist)owner, data);
+            case AbilityNames.WARRIOR_JUMP_SLAM:
+                return new WarriorJumpSlamAbility((Protagonist)owner, data);
 
             // ASSIST ABILITIES
             case AbilityNames.HUNTER_DASH_ATTACK_ASSIST:
