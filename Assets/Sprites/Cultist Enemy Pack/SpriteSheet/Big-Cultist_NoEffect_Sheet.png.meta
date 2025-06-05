@@ -1,0 +1,1846 @@
+fileFormatVersion: 2
+guid: e2ef61c10cfcefd41a1eefe6f67e30aa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8346849597445709879
+    second: Big-Cultist_NoEffect_Sheet_0
+  - first:
+      213: 7986082841745504025
+    second: Big-Cultist_NoEffect_Sheet_1
+  - first:
+      213: 7269637049464312608
+    second: Big-Cultist_NoEffect_Sheet_2
+  - first:
+      213: 8674435386753554039
+    second: Big-Cultist_NoEffect_Sheet_3
+  - first:
+      213: 8683048751789585679
+    second: Big-Cultist_NoEffect_Sheet_4
+  - first:
+      213: 4870208845088218210
+    second: Big-Cultist_NoEffect_Sheet_5
+  - first:
+      213: -5695821307724441564
+    second: Big-Cultist_NoEffect_Sheet_6
+  - first:
+      213: 674521176543967857
+    second: Big-Cultist_NoEffect_Sheet_7
+  - first:
+      213: 6123885265749674182
+    second: Big-Cultist_NoEffect_Sheet_8
+  - first:
+      213: 3175576517071308485
+    second: Big-Cultist_NoEffect_Sheet_9
+  - first:
+      213: -651967032185489952
+    second: Big-Cultist_NoEffect_Sheet_10
+  - first:
+      213: -6615741862983694871
+    second: Big-Cultist_NoEffect_Sheet_11
+  - first:
+      213: -8807809540607657434
+    second: Big-Cultist_NoEffect_Sheet_12
+  - first:
+      213: -781884797961882687
+    second: Big-Cultist_NoEffect_Sheet_13
+  - first:
+      213: 5569491442254809964
+    second: Big-Cultist_NoEffect_Sheet_14
+  - first:
+      213: -318726074849909991
+    second: Big-Cultist_NoEffect_Sheet_15
+  - first:
+      213: 4772847488584028032
+    second: Big-Cultist_NoEffect_Sheet_16
+  - first:
+      213: 6760710274893346256
+    second: Big-Cultist_NoEffect_Sheet_17
+  - first:
+      213: -1412410804481773213
+    second: Big-Cultist_NoEffect_Sheet_18
+  - first:
+      213: -802242018984842046
+    second: Big-Cultist_NoEffect_Sheet_19
+  - first:
+      213: -2094162107037757722
+    second: Big-Cultist_NoEffect_Sheet_20
+  - first:
+      213: 6945091159706820331
+    second: Big-Cultist_NoEffect_Sheet_21
+  - first:
+      213: 4117004382041404071
+    second: Big-Cultist_NoEffect_Sheet_22
+  - first:
+      213: -7105655184382936044
+    second: Big-Cultist_NoEffect_Sheet_23
+  - first:
+      213: 9171171667755362279
+    second: Big-Cultist_NoEffect_Sheet_24
+  - first:
+      213: 3428309072816432863
+    second: Big-Cultist_NoEffect_Sheet_25
+  - first:
+      213: -1943786104491248974
+    second: Big-Cultist_NoEffect_Sheet_26
+  - first:
+      213: 5975257330627603714
+    second: Big-Cultist_NoEffect_Sheet_27
+  - first:
+      213: 1809865616154422174
+    second: Big-Cultist_NoEffect_Sheet_28
+  - first:
+      213: -1300403561824722478
+    second: Big-Cultist_NoEffect_Sheet_29
+  - first:
+      213: 6760161907840153745
+    second: Big-Cultist_NoEffect_Sheet_30
+  - first:
+      213: -5938949705671708194
+    second: Big-Cultist_NoEffect_Sheet_31
+  - first:
+      213: 6106578462444248540
+    second: Big-Cultist_NoEffect_Sheet_32
+  - first:
+      213: -5469165967202439989
+    second: Big-Cultist_NoEffect_Sheet_33
+  - first:
+      213: -1038677504824988909
+    second: Big-Cultist_NoEffect_Sheet_34
+  - first:
+      213: 9211746839090771433
+    second: Big-Cultist_NoEffect_Sheet_35
+  - first:
+      213: -631807548605603304
+    second: Big-Cultist_NoEffect_Sheet_36
+  - first:
+      213: 3963977345617691703
+    second: Big-Cultist_NoEffect_Sheet_37
+  - first:
+      213: 6158551008575547768
+    second: Big-Cultist_NoEffect_Sheet_38
+  - first:
+      213: -6251568411408561877
+    second: Big-Cultist_NoEffect_Sheet_39
+  - first:
+      213: 6688412550045394265
+    second: Big-Cultist_NoEffect_Sheet_40
+  - first:
+      213: -6153800426598198296
+    second: Big-Cultist_NoEffect_Sheet_41
+  - first:
+      213: -1196224489507545064
+    second: Big-Cultist_NoEffect_Sheet_42
+  - first:
+      213: 4651804215526390461
+    second: Big-Cultist_NoEffect_Sheet_43
+  - first:
+      213: 7025051171329642503
+    second: Big-Cultist_NoEffect_Sheet_44
+  - first:
+      213: 2138270448566859418
+    second: Big-Cultist_NoEffect_Sheet_45
+  - first:
+      213: 8284604927314398604
+    second: Big-Cultist_NoEffect_Sheet_46
+  - first:
+      213: -7127711073013683263
+    second: Big-Cultist_NoEffect_Sheet_47
+  - first:
+      213: 2360497087970364640
+    second: Big-Cultist_NoEffect_Sheet_48
+  - first:
+      213: 6313250182430142700
+    second: Big-Cultist_NoEffect_Sheet_49
+  - first:
+      213: -4097447080684523068
+    second: Big-Cultist_NoEffect_Sheet_50
+  - first:
+      213: 5422509038736001855
+    second: Big-Cultist_NoEffect_Sheet_51
+  - first:
+      213: -8700019473964740128
+    second: Big-Cultist_NoEffect_Sheet_52
+  - first:
+      213: -7173212977573505677
+    second: Big-Cultist_NoEffect_Sheet_53
+  - first:
+      213: 6802537525028305129
+    second: Big-Cultist_NoEffect_Sheet_54
+  - first:
+      213: -7256287747895193257
+    second: Big-Cultist_NoEffect_Sheet_55
+  - first:
+      213: -4969129873771334603
+    second: Big-Cultist_NoEffect_Sheet_56
+  - first:
+      213: -3722082704228862358
+    second: Big-Cultist_NoEffect_Sheet_57
+  - first:
+      213: -5394233818045518782
+    second: Big-Cultist_NoEffect_Sheet_58
+  - first:
+      213: -4979174951771830708
+    second: Big-Cultist_NoEffect_Sheet_59
+  - first:
+      213: -5425462774003573588
+    second: Big-Cultist_NoEffect_Sheet_60
+  - first:
+      213: -3371905897840790557
+    second: Big-Cultist_NoEffect_Sheet_61
+  - first:
+      213: 3053742216582051896
+    second: Big-Cultist_NoEffect_Sheet_62
+  - first:
+      213: -5322940126903614009
+    second: Big-Cultist_NoEffect_Sheet_63
+  - first:
+      213: 1338104710352165174
+    second: Big-Cultist_NoEffect_Sheet_64
+  - first:
+      213: -131738142459670422
+    second: Big-Cultist_NoEffect_Sheet_65
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Big-Cultist_NoEffect_Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 648
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cfd2aeb3880a2c80800000000000000
+      internalID: -8346849597445709879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Cultist_NoEffect_Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 648
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9173511580444de60800000000000000
+      internalID: 7986082841745504025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Cultist_NoEffect_Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 648
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023d65b5160f2e460800000000000000
+      internalID: 7269637049464312608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Cultist_NoEffect_Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 648
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776168e6609c16870800000000000000
+      internalID: 8674435386753554039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Cultist_NoEffect_Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 648
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0531d1c5d2608870800000000000000
+      internalID: 8683048751789585679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Cultist_NoEffect_Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 589
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26cd2712425769340800000000000000
+      internalID: 4870208845088218210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Cultist_NoEffect_Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 589
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428dbf8c2b064f0b0800000000000000
+      internalID: -5695821307724441564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Cultist_NoEffect_Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 589
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ab161bf616c5900800000000000000
+      internalID: 674521176543967857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Cultist_NoEffect_Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 589
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8024614396cf450800000000000000
+      internalID: 6123885265749674182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Cultist_NoEffect_Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 589
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c68b11740ae11c20800000000000000
+      internalID: 3175576517071308485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Cultist_NoEffect_Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 530
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e57151407fb3f6f0800000000000000
+      internalID: -651967032185489952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Cultist_NoEffect_Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 530
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e50d2bc3d92034a0800000000000000
+      internalID: -6615741862983694871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Cultist_NoEffect_Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 530
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ab8ca73ef54c580800000000000000
+      internalID: -8807809540607657434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Cultist_NoEffect_Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 530
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c3343a3bef2625f0800000000000000
+      internalID: -781884797961882687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Cultist_NoEffect_Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 530
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b0d2355feca4d40800000000000000
+      internalID: 5569491442254809964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Cultist_NoEffect_Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 471
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 913aae7d258a39bf0800000000000000
+      internalID: -318726074849909991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Cultist_NoEffect_Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 471
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f8a24d08f8c3240800000000000000
+      internalID: 4772847488584028032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Cultist_NoEffect_Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 471
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5f95cdc2ed2dd50800000000000000
+      internalID: 6760710274893346256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Cultist_NoEffect_Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 471
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 361b0f94bdb166ce0800000000000000
+      internalID: -1412410804481773213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Cultist_NoEffect_Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 471
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc248a522dddd4f0800000000000000
+      internalID: -802242018984842046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Cultist_NoEffect_Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 412
+        width: 77
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee4ee3b8aa00f2e0800000000000000
+      internalID: -2094162107037757722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Cultist_NoEffect_Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 412
+        width: 77
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beed703fc9be16060800000000000000
+      internalID: 6945091159706820331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Cultist_NoEffect_Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 412
+        width: 56
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2fd423ca9822930800000000000000
+      internalID: 4117004382041404071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Cultist_NoEffect_Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 412
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c3176d144a36d90800000000000000
+      internalID: -7105655184382936044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Cultist_NoEffect_Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 412
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e76fa67a0c864f70800000000000000
+      internalID: 9171171667755362279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Cultist_NoEffect_Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 353
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6e87110fcc39f20800000000000000
+      internalID: 3428309072816432863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Cultist_NoEffect_Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 353
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b2757a26d84605e0800000000000000
+      internalID: -1943786104491248974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Cultist_NoEffect_Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 353
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d6b9942e06ce250800000000000000
+      internalID: 5975257330627603714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Cultist_NoEffect_Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 358
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9be316503fed1910800000000000000
+      internalID: 1809865616154422174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Cultist_NoEffect_Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 353
+        width: 63
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d1e8c0b9d904fde0800000000000000
+      internalID: -1300403561824722478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Cultist_NoEffect_Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 354
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19870f4307be0dd50800000000000000
+      internalID: 6760161907840153745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Cultist_NoEffect_Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 353
+        width: 61
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed1f68665bc949da0800000000000000
+      internalID: -5938949705671708194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Cultist_NoEffect_Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 294
+        width: 66
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd5a0fe1cceeb450800000000000000
+      internalID: 6106578462444248540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Cultist_NoEffect_Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 294
+        width: 52
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc2e3b978e9914b0800000000000000
+      internalID: -5469165967202439989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Cultist_NoEffect_Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 294
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ba7b00050e591f0800000000000000
+      internalID: -1038677504824988909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Cultist_NoEffect_Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 294
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e535d8b1f2b6df70800000000000000
+      internalID: 9211746839090771433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Cultist_NoEffect_Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 294
+        width: 54
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 812e3fac16e5b37f0800000000000000
+      internalID: -631807548605603304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Cultist_NoEffect_Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 235
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7340d3fc460e20730800000000000000
+      internalID: 3963977345617691703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Cultist_NoEffect_Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 235
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879e44d4381977550800000000000000
+      internalID: 6158551008575547768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Cultist_NoEffect_Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 235
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2980fce6a7fd39a0800000000000000
+      internalID: -6251568411408561877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Cultist_NoEffect_Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 235
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95568bc07c302dc50800000000000000
+      internalID: 6688412550045394265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Cultist_NoEffect_Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 235
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e397f1cd1f499aa0800000000000000
+      internalID: -6153800426598198296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Cultist_NoEffect_Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 176
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 810a7472a28266fe0800000000000000
+      internalID: -1196224489507545064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Cultist_NoEffect_Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 176
+        width: 63
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba7d17a9478e8040800000000000000
+      internalID: 4651804215526390461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Cultist_NoEffect_Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 178
+        width: 66
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7009b0ce1defd7160800000000000000
+      internalID: 7025051171329642503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Cultist_NoEffect_Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 191
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a96fa88d4a9acad10800000000000000
+      internalID: 2138270448566859418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Cultist_NoEffect_Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 176
+        width: 58
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d8605a944d8f270800000000000000
+      internalID: 8284604927314398604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Cultist_NoEffect_Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 176
+        width: 67
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cba6671b88451d90800000000000000
+      internalID: -7127711073013683263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Cultist_NoEffect_Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 117
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec41d5589b22c020800000000000000
+      internalID: 2360497087970364640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Cultist_NoEffect_Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 117
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce03be5879b2d9750800000000000000
+      internalID: 6313250182430142700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Cultist_NoEffect_Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 117
+        width: 37
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c176ddd691f227c0800000000000000
+      internalID: -4097447080684523068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Cultist_NoEffect_Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 117
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b4435bd3f904b40800000000000000
+      internalID: 5422509038736001855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Cultist_NoEffect_Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 117
+        width: 35
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e1d9531262534780800000000000000
+      internalID: -8700019473964740128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Cultist_NoEffect_Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 117
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375528d5dc0a37c90800000000000000
+      internalID: -7173212977573505677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Cultist_NoEffect_Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 117
+        width: 37
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8b39e66d7776e50800000000000000
+      internalID: 6802537525028305129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Cultist_NoEffect_Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 117
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75110be1dbc7c4b90800000000000000
+      internalID: -7256287747895193257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Cultist_NoEffect_Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 117
+        width: 68
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 534f31715ba1a0bb0800000000000000
+      internalID: -4969129873771334603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Cultist_NoEffect_Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 58
+        width: 107
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6630dd3081885cc0800000000000000
+      internalID: -3722082704228862358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Cultist_NoEffect_Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 59
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c6fff1ce4d325b0800000000000000
+      internalID: -5394233818045518782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Cultist_NoEffect_Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 59
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c460e1d13ca66eab0800000000000000
+      internalID: -4979174951771830708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Cultist_NoEffect_Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 59
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac59653a52e4b4b0800000000000000
+      internalID: -5425462774003573588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Cultist_NoEffect_Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 62
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3b72773759431d0800000000000000
+      internalID: -3371905897840790557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Cultist_NoEffect_Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 3
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 838bcf6dd52116a20800000000000000
+      internalID: 3053742216582051896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Cultist_NoEffect_Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 0
+        width: 49
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c5cc3f182e1126b0800000000000000
+      internalID: -5322940126903614009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Cultist_NoEffect_Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 49
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63951dcf427e19210800000000000000
+      internalID: 1338104710352165174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Cultist_NoEffect_Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 0
+        width: 49
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60525f7bd8fb2ef0800000000000000
+      internalID: -131738142459670422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Big-Cultist_NoEffect_Sheet_0: -8346849597445709879
+      Big-Cultist_NoEffect_Sheet_1: 7986082841745504025
+      Big-Cultist_NoEffect_Sheet_10: -651967032185489952
+      Big-Cultist_NoEffect_Sheet_11: -6615741862983694871
+      Big-Cultist_NoEffect_Sheet_12: -8807809540607657434
+      Big-Cultist_NoEffect_Sheet_13: -781884797961882687
+      Big-Cultist_NoEffect_Sheet_14: 5569491442254809964
+      Big-Cultist_NoEffect_Sheet_15: -318726074849909991
+      Big-Cultist_NoEffect_Sheet_16: 4772847488584028032
+      Big-Cultist_NoEffect_Sheet_17: 6760710274893346256
+      Big-Cultist_NoEffect_Sheet_18: -1412410804481773213
+      Big-Cultist_NoEffect_Sheet_19: -802242018984842046
+      Big-Cultist_NoEffect_Sheet_2: 7269637049464312608
+      Big-Cultist_NoEffect_Sheet_20: -2094162107037757722
+      Big-Cultist_NoEffect_Sheet_21: 6945091159706820331
+      Big-Cultist_NoEffect_Sheet_22: 4117004382041404071
+      Big-Cultist_NoEffect_Sheet_23: -7105655184382936044
+      Big-Cultist_NoEffect_Sheet_24: 9171171667755362279
+      Big-Cultist_NoEffect_Sheet_25: 3428309072816432863
+      Big-Cultist_NoEffect_Sheet_26: -1943786104491248974
+      Big-Cultist_NoEffect_Sheet_27: 5975257330627603714
+      Big-Cultist_NoEffect_Sheet_28: 1809865616154422174
+      Big-Cultist_NoEffect_Sheet_29: -1300403561824722478
+      Big-Cultist_NoEffect_Sheet_3: 8674435386753554039
+      Big-Cultist_NoEffect_Sheet_30: 6760161907840153745
+      Big-Cultist_NoEffect_Sheet_31: -5938949705671708194
+      Big-Cultist_NoEffect_Sheet_32: 6106578462444248540
+      Big-Cultist_NoEffect_Sheet_33: -5469165967202439989
+      Big-Cultist_NoEffect_Sheet_34: -1038677504824988909
+      Big-Cultist_NoEffect_Sheet_35: 9211746839090771433
+      Big-Cultist_NoEffect_Sheet_36: -631807548605603304
+      Big-Cultist_NoEffect_Sheet_37: 3963977345617691703
+      Big-Cultist_NoEffect_Sheet_38: 6158551008575547768
+      Big-Cultist_NoEffect_Sheet_39: -6251568411408561877
+      Big-Cultist_NoEffect_Sheet_4: 8683048751789585679
+      Big-Cultist_NoEffect_Sheet_40: 6688412550045394265
+      Big-Cultist_NoEffect_Sheet_41: -6153800426598198296
+      Big-Cultist_NoEffect_Sheet_42: -1196224489507545064
+      Big-Cultist_NoEffect_Sheet_43: 4651804215526390461
+      Big-Cultist_NoEffect_Sheet_44: 7025051171329642503
+      Big-Cultist_NoEffect_Sheet_45: 2138270448566859418
+      Big-Cultist_NoEffect_Sheet_46: 8284604927314398604
+      Big-Cultist_NoEffect_Sheet_47: -7127711073013683263
+      Big-Cultist_NoEffect_Sheet_48: 2360497087970364640
+      Big-Cultist_NoEffect_Sheet_49: 6313250182430142700
+      Big-Cultist_NoEffect_Sheet_5: 4870208845088218210
+      Big-Cultist_NoEffect_Sheet_50: -4097447080684523068
+      Big-Cultist_NoEffect_Sheet_51: 5422509038736001855
+      Big-Cultist_NoEffect_Sheet_52: -8700019473964740128
+      Big-Cultist_NoEffect_Sheet_53: -7173212977573505677
+      Big-Cultist_NoEffect_Sheet_54: 6802537525028305129
+      Big-Cultist_NoEffect_Sheet_55: -7256287747895193257
+      Big-Cultist_NoEffect_Sheet_56: -4969129873771334603
+      Big-Cultist_NoEffect_Sheet_57: -3722082704228862358
+      Big-Cultist_NoEffect_Sheet_58: -5394233818045518782
+      Big-Cultist_NoEffect_Sheet_59: -4979174951771830708
+      Big-Cultist_NoEffect_Sheet_6: -5695821307724441564
+      Big-Cultist_NoEffect_Sheet_60: -5425462774003573588
+      Big-Cultist_NoEffect_Sheet_61: -3371905897840790557
+      Big-Cultist_NoEffect_Sheet_62: 3053742216582051896
+      Big-Cultist_NoEffect_Sheet_63: -5322940126903614009
+      Big-Cultist_NoEffect_Sheet_64: 1338104710352165174
+      Big-Cultist_NoEffect_Sheet_65: -131738142459670422
+      Big-Cultist_NoEffect_Sheet_7: 674521176543967857
+      Big-Cultist_NoEffect_Sheet_8: 6123885265749674182
+      Big-Cultist_NoEffect_Sheet_9: 3175576517071308485
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

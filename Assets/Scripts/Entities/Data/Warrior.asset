@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 57417eca97dbf2646bdee3172870e551, type: 3}
+  m_Name: Warrior
+  m_EditorClassIdentifier: 
+  Entity: {fileID: 6933830241250865263, guid: b2f9ab8a2ad8a8d4c8594b6d55437eaf, type: 3}
+  Name: 1
+  Abilities:
+  - {fileID: 11400000, guid: 6fd522a465d57f14fbd314bb54dcfb5e, type: 2}
+  - {fileID: 11400000, guid: caf147468f9c4c24aa715eef86816ac0, type: 2}
+  - {fileID: 11400000, guid: 2983febada74425478b34875800015f1, type: 2}
+  - {fileID: 11400000, guid: 25f8d3b7238560645aca0b002c614643, type: 2}
+  Health: 125
+  Speed: 2.25

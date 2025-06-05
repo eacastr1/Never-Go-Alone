@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 57417eca97dbf2646bdee3172870e551, type: 3}
+  m_Name: Cultist
+  m_EditorClassIdentifier: 
+  Entity: {fileID: 189076187655574464, guid: 0c1ef0d8c3f093f44a4ae4241b8b88cb, type: 3}
+  Name: 2
+  Abilities:
+  - {fileID: 11400000, guid: 6f8cd75e73be96f4b88cde50610abbad, type: 2}
+  - {fileID: 11400000, guid: e6a6ba806e1e04f468e6e5daa64cf910, type: 2}
+  Health: 100
+  Speed: 2.5
