@@ -13,12 +13,12 @@ public class Hunter : Protagonist
         Ability ability = m_AbilitySystem.GetAbility(AbilityNames.HUNTER_CROSSBOW);
         m_GroundedAction.AddState(AbilityNames.HUNTER_CROSSBOW.ToString(), new HunterCrossbowState(this));
         m_GroundedAction.AddTwoWayTransition("Idle", AbilityNames.HUNTER_CROSSBOW.ToString(), t => Player.Instance.PlayerControls.AbilityOne.IsPressed());
-        m_AirborneAction.AddState(AbilityNames.HUNTER_CROSSBOW.ToString(), new HunterCrossbowState(this));
-        m_AirborneAction.AddTwoWayTransition("Idle", AbilityNames.HUNTER_CROSSBOW.ToString(), t => Player.Instance.PlayerControls.AbilityOne.IsPressed());
 
         ability = m_AbilitySystem.GetAbility(AbilityNames.HUNTER_CHARGED_CROSSBOW);
         m_GroundedAction.AddState(AbilityNames.HUNTER_CHARGED_CROSSBOW.ToString(), new HunterChargedCrossbowState(this));
         m_GroundedAction.AddTwoWayTransition("Idle", AbilityNames.HUNTER_CHARGED_CROSSBOW.ToString(), t => Player.Instance.PlayerControls.AbilityTwo.IsPressed());
+
+        // Airborne action
         m_AirborneAction.AddState(AbilityNames.HUNTER_CHARGED_CROSSBOW.ToString(), new HunterChargedCrossbowState(this));
         m_AirborneAction.AddTwoWayTransition("Idle", AbilityNames.HUNTER_CHARGED_CROSSBOW.ToString(), t => Player.Instance.PlayerControls.AbilityTwo.IsPressed());
 

@@ -25,6 +25,9 @@ public class Warrior : Protagonist
         ability = AbilityNames.WARRIOR_CHAIN.ToString();
         m_GroundedAction.AddState(ability, new WarriorChainState(this));
         m_GroundedAction.AddTwoWayTransition("Idle", ability, t => Player.Instance.PlayerControls.AbilityFour.IsPressed());
+        
+        m_AirborneAction.AddState(ability, new AbilityState(this, AbilityNames.WARRIOR_CHAIN));
+        m_AirborneAction.AddTwoWayTransition("Idle", ability, t => Player.Instance.PlayerControls.AbilityFour.IsPressed());
 
         ability = AbilityNames.WARRIOR_JUMP_SLAM.ToString();
         m_AirborneAction.AddState(ability, new AbilityState(this, AbilityNames.WARRIOR_JUMP_SLAM));

@@ -16,8 +16,7 @@ public class WarriorChainAbility : ProtagAbility
         if (Cooldown()) return;
 
         AbilityManager.Instance.StartCoroutine(Chain());
-        m_Protagonist.m_Rooted = true;
-        m_Protagonist.m_Performing = true;
+        // m_Protagonist.m_Rooted = true;
     }
 
     protected override void Deactivate()
@@ -28,6 +27,8 @@ public class WarriorChainAbility : ProtagAbility
     private IEnumerator Chain()
     {
         m_Protagonist.Animator.SetTrigger("Charge");
+        m_Protagonist.m_Floating = true;
+        m_Protagonist.m_Performing = true;
         GameObject chain = GameObject.Instantiate(m_Chain, m_Spawn);
 
         Hitbox hitbox = chain.GetComponent<Hitbox>();
@@ -46,7 +47,10 @@ public class WarriorChainAbility : ProtagAbility
         yield return new WaitForSeconds(data.duration);
 
         GameObject.Destroy(chain);
-        m_Protagonist.m_Rooted = false;
         m_Protagonist.m_Performing = false;
+
+        yield return new WaitForSeconds(data.duration);
+        // m_Protagonist.m_Rooted = false;
+        m_Protagonist.m_Floating = false;
     }
 }

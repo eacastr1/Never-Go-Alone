@@ -51,7 +51,7 @@ public class HunterCrossbowAbility : ProtagAbility
 
         // Set projectile position and velocity
         proj.transform.SetPositionAndRotation(spawn, Quaternion.identity);
-        proj.Velocity = new Vector2(m_Protagonist.Direction * data.speed, 0);
+        proj.Velocity = new Vector2(Mathf.Sign(m_Protagonist.Direction) * data.speed, 0);
 
         m_Protagonist.m_Performing = false; // Reset performing state after the ability is activated
 

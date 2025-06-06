@@ -24,7 +24,7 @@ public class AirborneState : ProtagState
             Debug.Log("Protagonist is rooted, cannot move.");
             return;
         }
-
+        
         m_MoveDirection = new Vector2(m_PlayerController.Input * 2.5f, m_Protagonist.Rigidbody.linearVelocityY);
         m_Protagonist.Direction = m_MoveDirection.x;
         m_Protagonist.Rigidbody.linearVelocity = m_MoveDirection;

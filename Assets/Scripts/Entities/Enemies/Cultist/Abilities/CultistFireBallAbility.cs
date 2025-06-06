@@ -47,6 +47,6 @@ public class CultistFireBallAbility : AntagAbility
 
         // Set projectile position and velocity
         proj.transform.SetPositionAndRotation(spawn, Quaternion.identity);
-        proj.Velocity = new Vector2(m_Antagonist.m_Direction.x * data.speed, 0);
+        proj.Velocity = new Vector2(Mathf.Sign(m_Antagonist.m_Direction.x) * data.speed, 0);
     }
 }

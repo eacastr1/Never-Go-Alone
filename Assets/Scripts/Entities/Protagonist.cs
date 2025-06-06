@@ -109,13 +109,16 @@ public class Protagonist : Entity
 
         // Airbone HFSM
         m_Airborne = new StateMachine();
+        m_Airborne.AddState("Idle", new State(isGhostState: true));
         m_Airborne.AddState("Airborne", new AirborneState(this));
-        
+        m_Airborne.AddTwoWayTransition("Idle", "Airborne", t => Player.Instance.PlayerController.Input != 0);
 
         m_Airborne.AddState("Floating", new FloatingState(this));
         m_Airborne.AddTwoWayTransition("Airborne", "Floating", t => m_Floating);
+        
+        m_Airborne.AddTransition("Idle", "Floating", t => m_Floating);
 
-        m_Airborne.SetStartState("Airborne");
+        m_Airborne.SetStartState("Idle");
         m_Airborne.Init();
 
 

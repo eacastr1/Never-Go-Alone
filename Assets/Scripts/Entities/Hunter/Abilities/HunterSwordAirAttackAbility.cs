@@ -26,6 +26,8 @@ public class HunterSwordAirAttackAbility : ProtagAbility
         m_Hitbox.Initialize(new DamageEffect(data.damage), new StunEffect(data.duration));
         m_Hitbox.SetTag("Enemy");
 
+        m_Protagonist.m_Floating = true;
+
         if (m_Protagonist.Direction > 0)
         {
             Vector3 scale = m_Hitbox.transform.localScale;
@@ -40,7 +42,9 @@ public class HunterSwordAirAttackAbility : ProtagAbility
         }
 
         m_Protagonist.Animator.SetTrigger("Ability Three");
-        
-        yield break;
+
+        yield return new WaitForSeconds(0.35f);
+
+        m_Protagonist.m_Floating = false;
     }
 }
