@@ -1,9 +1,18 @@
+using System;
 using UnityEngine;
 
 public class Health : MonoBehaviour
 {
     [SerializeField] private float m_CurrentHealth;
     private float m_MaxHealth;
+
+    public event Action<float> OnHealthChanged;
+
+    public void Awake()
+    {
+        m_MaxHealth = 3.5f;
+        Initialize(m_MaxHealth);
+    }
 
     public void Initialize(float maxHealth)
     {
@@ -18,6 +27,8 @@ public class Health : MonoBehaviour
         {
             m_CurrentHealth = 0;
         }
+
+        OnHealthChanged?.Invoke(GetCurrentHealth());
         return m_CurrentHealth;
     }
 
@@ -28,6 +39,8 @@ public class Health : MonoBehaviour
         {
             m_CurrentHealth = m_MaxHealth;
         }
+        
+        OnHealthChanged?.Invoke(GetCurrentHealth());
         return m_CurrentHealth;
     }
 
