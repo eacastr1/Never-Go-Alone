@@ -16,7 +16,7 @@ MonoBehaviour:
   abilityName: 8
   cooldown: 1.55
   recovery: 0
-  damage: 15
+  damage: 1.5
   speed: 5
   duration: 0
   distance: 10

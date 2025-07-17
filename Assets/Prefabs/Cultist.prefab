@@ -236,6 +236,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Data: {fileID: 11400000, guid: 7062ff05d1cd13942b43b6512ff16817, type: 2}
+  m_Portrait: {fileID: 0}
   m_Direction: {x: 0, y: 0}
   OnGround: 0
   Direction: 1
@@ -354,7 +355,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 291908c38bdc1534b92f38d56e8dabad, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_CurrentHealth: 0
+  m_CurrentHealth: 5
 --- !u!1 &324451977769224192
 GameObject:
   m_ObjectHideFlags: 0

@@ -1,9 +1,11 @@
 using UnityEngine;
 using UnityHFSM;
+using UnityEngine.UI;
 
 public abstract class Entity : MonoBehaviour
 {
     [SerializeField] protected EntityData m_Data;
+    [SerializeField] private Sprite m_Portrait;
     private Rigidbody2D m_Rigidbody;
     private BoxCollider2D m_BoxCollider;
     private Animator m_Animator;
@@ -15,6 +17,7 @@ public abstract class Entity : MonoBehaviour
     public Animator Animator => m_Animator;
     public SpriteRenderer SpriteRenderer => m_SpriteRenderer;
     public Health Health => m_Health;
+    public Sprite Portrait => m_Portrait;
 
     public Vector2 m_Direction;
     public bool OnGround;
@@ -28,12 +31,11 @@ public abstract class Entity : MonoBehaviour
         m_Animator = GetComponentInChildren<Animator>();
         m_SpriteRenderer = GetComponentInChildren<SpriteRenderer>();
         m_Health = GetComponent<Health>();
-        m_Health.Initialize(100f); // Example initialization, adjust as needed
     }
 
     protected virtual void Start()
     {
-        
+        // m_Health.Initialize(100f); // Example initialization, adjust as needed
     }
 
     public void Death()

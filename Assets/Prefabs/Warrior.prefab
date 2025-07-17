@@ -34,6 +34,7 @@ Transform:
   m_Children:
   - {fileID: 9043460921959610759}
   - {fileID: 3190350004614640714}
+  - {fileID: 714276454998458506}
   m_Father: {fileID: 9174496786553790938}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &2793119785999215761
@@ -386,6 +387,98 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Tag: 
+--- !u!1 &4170425778019552019
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 714276454998458506}
+  - component: {fileID: 8674493339746633207}
+  - component: {fileID: 8020526923099451470}
+  m_Layer: 0
+  m_Name: Jump Slam HB
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &714276454998458506
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4170425778019552019}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8511999833860081846}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &8674493339746633207
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4170425778019552019}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0.25150663, y: -0.026108235}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Size: {x: 0.4064673, y: 0.4987219}
+  m_EdgeRadius: 0
+--- !u!114 &8020526923099451470
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4170425778019552019}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e1a2a275661e2f489f73cb5ebc4903b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Tag: 
 --- !u!1 &4450511019265449227
 GameObject:
   m_ObjectHideFlags: 0
@@ -469,7 +562,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &9174496786553790938
 Transform:
   m_ObjectHideFlags: 0
@@ -585,6 +678,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Data: {fileID: 11400000, guid: 6b4cbb688839d6c47b70b97157d21c6b, type: 2}
+  m_Portrait: {fileID: 21300000, guid: 6f0a09d3c1991f744a92a7a02ddf8f75, type: 3}
   m_Direction: {x: 0, y: 0}
   OnGround: 0
   Direction: 0
@@ -594,6 +688,7 @@ MonoBehaviour:
   m_Performing: 0
   SlashDownHitbox: {fileID: 1136624562216865948}
   SlashUpHitbox: {fileID: 2963967869620915529}
+  SlamHitbox: {fileID: 4170425778019552019}
   ChainSpawn: {fileID: 4450511019265449227}
 --- !u!114 &6811742377014495523
 MonoBehaviour:
@@ -607,4 +702,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 291908c38bdc1534b92f38d56e8dabad, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_CurrentHealth: 0
+  m_CurrentHealth: 5

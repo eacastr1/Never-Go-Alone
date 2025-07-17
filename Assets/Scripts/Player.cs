@@ -1,10 +1,11 @@
+using System;
 using UnityEngine;
 using UnityHFSM;
 
 public class Player : Entity
 {
     public static Player Instance { get; private set; }
-
+    
     [SerializeField] private Protagonist m_Entity;
     [SerializeField] private Protagonist m_CharacterOne;
     [SerializeField] private Protagonist m_CharacterTwo;
@@ -19,6 +20,8 @@ public class Player : Entity
     public Protagonist Entity => m_Entity;
     public PlayerControls PlayerControls => m_PlayerControls;
     public PlayerController PlayerController => m_PlayerController;
+
+    public event Action OnCharacterChanged;
 
     protected override void Awake()
     {
@@ -94,6 +97,8 @@ public class Player : Entity
         {
             m_Entity.SpriteRenderer.flipX = false;
         }
+
+        OnCharacterChanged?.Invoke();
     }
 
     private void SetupEntityStateMachine()

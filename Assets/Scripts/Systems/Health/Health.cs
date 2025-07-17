@@ -10,8 +10,8 @@ public class Health : MonoBehaviour
 
     public void Awake()
     {
-        m_MaxHealth = 3.5f;
-        Initialize(m_MaxHealth);
+        // m_MaxHealth = 3.5f;
+        Initialize(m_CurrentHealth);
     }
 
     public void Initialize(float maxHealth)
